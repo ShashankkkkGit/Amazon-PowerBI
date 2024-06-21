@@ -1,1 +1,1 @@
-# Amazon-PowerBI
+# Amazon-PowerBI Accomplished identification of user preferences as measured by content acquisition recommendations, by designing an interactive dashboard to analyze viewership statistics using PowerBI.
